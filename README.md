@@ -37,7 +37,7 @@ The dataset spans crimes reported between **2001 and the present** and includes 
    - Analyze crime occurrences at different times of the day and week.
 
 2. **Safety Index Development**: 
-   - Use statistical models and machine learning techniques to develop a **Safety Index** for each community area in Chicago based on crime rates, crime types, arrest rates, and other factors.
+   - Using EDA techniques to develop a **Safety Index** for each community area in Chicago based on crime rates, crime types, arrest rates, and other factors.
    - Provide insights into the **safest** and **most dangerous** neighborhoods.
 
 3. **Visualization**: 
@@ -71,7 +71,6 @@ The dataset spans crimes reported between **2001 and the present** and includes 
 - **Pandas**: Data manipulation and preprocessing.
 - **Matplotlib/Seaborn**: Data visualization.
 - **Folium/Plotly**: Mapping and interactive visualizations.
-- **Scikit-learn**: Machine learning models for clustering and predictions.
 - **Geopandas**: Spatial data analysis and mapping.
 - **Jupyter Notebook**: For interactive data exploration and code development.
 
